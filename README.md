@@ -9,9 +9,10 @@ The API provides endpoints that allow users to create tasks and view a list of e
 ## Features
 
 - Create tasks
-- View all tasks
+- View tasks
+- Mark tasks as completed
+- Delete tasks
 - REST API endpoints
-- Lightweight backend service
 
 ## Technologies Used
 
